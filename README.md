@@ -23,15 +23,17 @@ run npm install in client and api folder to install req dependencies
 
 Screenshots
 
+
+HOMEPAGE
 ![homepage1](https://github.com/shivanoor/shopify_fashion/assets/113299998/c471756e-78b8-4f1b-917b-136412a0b06b)
 
-
+HOMEPAGE
 ![homepage2](https://github.com/shivanoor/shopify_fashion/assets/113299998/b20db734-7279-4ab0-8b6e-1b0c3cf6f9e1)
 
-
+PRODUCT PAGE
 ![product_page_sample](https://github.com/shivanoor/shopify_fashion/assets/113299998/1013a309-8fc8-44a1-95c4-9b6d6c482867)
 
-
+CART
 ![categories_homepage](https://github.com/shivanoor/shopify_fashion/assets/113299998/daf875e9-588d-4e99-acbe-b4566dcad77e)
 
 

@@ -48,6 +48,10 @@ https://github.com/shivanoor/shopify_fashion/assets/113299998/bdd074f0-1d25-40c9
 
 
 
+https://github.com/shivanoor/shopify_fashion/assets/113299998/cbe7ec5a-e0d6-41e2-a7c0-6fc94301dd58
+
+
+
 
 
 

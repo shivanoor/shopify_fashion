@@ -1,0 +1,102 @@
+.navbar {
+	background: #2f2f2f;
+	height: 70px;
+	width: 100vw;
+	font-size: 15px;
+	color: #d4d4d4;
+	position: relative;
+	.wrapper {
+		width: 100%;
+		padding: 20px;
+		display: flex;
+		justify-content: space-evenly;
+		font-weight: bold;
+		.left {
+			display: flex;
+			gap: 20px;
+			align-items: center;
+			justify-content: center;
+			.category {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				gap: 0px;
+				.arrow:hover {
+					cursor: pointer;
+				}
+			}
+			.category:hover {
+				color: white;
+				cursor: pointer;
+			}
+		}
+		.center {
+			h2 {
+				letter-spacing: 5px;
+			}
+		}
+		.right {
+			display: flex;
+			gap: 20px;
+			.cart-icon {
+				position: relative;
+				cursor: pointer;
+				span {
+					position: absolute;
+					bottom: 20px;
+					left: 20px;
+					color: lightskyblue;
+					font-weight: bold;
+				}
+			}
+		}
+	}
+
+	@media (max-width: 768px) {
+		height: auto; // Allow the height to adjust based on content
+		padding: 10px; // Reduce padding for mobile
+		font-size: 12px; // Reduce font size for mobile
+		.wrapper {
+			padding: 10px;
+			flex-direction: column;
+			.left {
+				.category {
+					font-size: 14px; // Adjust font size for mobile
+				}
+			}
+
+			.center {
+				align-items: center;
+				text-align: center;
+				margin: 10px;
+			}
+			.right {
+				flex-direction: column;
+				align-items: center;
+			}
+		}
+	}
+	@media (max-width: 1024px) {
+		height: auto; // Allow the height to adjust based on content
+		font-size: 14px; // Reduce font size for iPad
+		.wrapper {
+			flex-direction: column;
+			justify-content: center;
+			.left {
+				justify-content: center;
+				align-items: center;
+				.category {
+					font-size: 15px; // Adjust font size for iPad
+				}
+			}
+			.center {
+				text-align: center;
+				margin: 10px 0px;
+			}
+			.right {
+				align-items: center;
+				justify-content: center;
+			}
+		}
+	}
+}

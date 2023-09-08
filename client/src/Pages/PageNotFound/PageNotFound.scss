@@ -1,0 +1,11 @@
+.PageNotFound {
+	position: relative;
+	height: calc(100% - 70px);
+	width: 100%;
+	#home-btn {
+		position: absolute;
+		top: 70%;
+		left: 48%;
+        transform: translateX(-50%);
+	}
+}

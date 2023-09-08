@@ -1,0 +1,37 @@
+.products {
+	text-transform: uppercase;
+	background-image: url("../../assets/cool-background.png");
+	padding: 30px;
+	display: flex;
+	.left {
+		flex: 1;
+		position: sticky;
+		height: 100%;
+		top: 50px;
+		color: gray;
+		.filter-item {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+			margin-bottom: 40px;
+		}
+		h4 {
+			font-size: 15px;
+			font-weight: bold;
+			color: black;
+		}
+		label {
+			margin-left: 5px;
+		}
+	}
+	.right {
+		margin-top: 20px;
+		flex: 3;
+		img {
+			width: 100%;
+			height: 350px;
+			object-fit: cover;
+			margin-bottom: 50px;
+		}
+	}
+}

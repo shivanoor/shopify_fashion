@@ -38,3 +38,22 @@ CART
 
 
 ![cart](https://github.com/shivanoor/shopify_fashion/assets/113299998/f6245614-8131-47a9-99d2-a30f103d06ce)
+
+
+
+
+
+
+https://github.com/shivanoor/shopify_fashion/assets/113299998/bdd074f0-1d25-40c9-965f-5f09a3bfc77d
+
+
+
+
+
+
+
+
+
+
+
+

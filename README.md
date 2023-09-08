@@ -17,6 +17,9 @@ Fork the repo and use cmds :
 1. npm run start in client folder
 2.  npm run develop in api folder
 
+NOTE : 
+run npm install in client and api folder to install req dependencies
+
 
 Screenshots
 
